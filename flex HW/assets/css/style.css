@@ -1,0 +1,21 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    min-width: 100vw;
+    font-size: 100px;
+    color: #ffffff;
+    font-style: bold;
+    background: url('../img/top.jpg') no-repeat center center;
+    background-size: cover;
+
+}
